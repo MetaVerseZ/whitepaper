@@ -1,20 +1,16 @@
-# Our team
+# Our Team
 
 ### Jonas Ksd ([mzt@metaversez0.com](mailto:mzt@metaversez0.com))
 
 **Founder & Game Developer**
 
-Jonas leads our game design team and is responsible for our technical strategy and engineering operations
-
-He previously worked as a software engineer. graduated from a Technological University and he's taking lead in our game development.
+Jonas leads our game design team and is responsible for our technical strategy and engineering operations. He graduated from a Technological University and previously worked as a software engineer. He's taking lead in our game development.
 
 ### Joseph Grey ([youcefksd@gmail.com](mailto:youcefksd@gmail.com))
 
 **Growth Lead**
 
-Joseph handles growth and community development. He also spearheads token design and works closely with the product team.
-
-He Graduated from the Higher School of Commerce, majoring in management and contracting in 2018 and has 5 years of experience in crypto communities.
+Joseph handles growth and community development. He also spearheads token design and works closely with the product team. He graduated from the Higher School of Commerce, majoring in management and contracting in 2018. He has 5 years of experience in crypto communities.
 
 ### Álvaro Rodríguez ([electromandz33@gmail.com](mailto:electromandz33@gmail.com))
 
