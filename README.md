@@ -1,6 +1,6 @@
 # Introduction
 
-Meta Z is a virtual world with a separated marketplace system that is linked to the MZT token where users can bring their imaginations forward virtually to allow them to get upgrades to their status in the Z World.
+[Meta Z](https://www.themetaversez.com) is a virtual world with a separated marketplace system that is linked to the MZT token where users can bring their imaginations forward virtually to allow them to get upgrades to their status in the Z World.
 
 #### World Z provides an infrastructure to support a shared virtual world, also known as a metaverse.
 
