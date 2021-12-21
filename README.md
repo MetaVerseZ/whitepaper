@@ -1,10 +1,12 @@
 # Introduction
 
-#### World Z provides an infrastructure to support a shared virtual world, also known as a metaverse.&#x20;
+Meta Z is a virtual world with a separated market place system which is linked to the MZT token where users can bring their own imaginations forward virtually in order to allow them to obtain upgrades to their status in the Z World.
+
+#### World Z provides an infrastructure to support a shared virtual world, also known as a metaverse.
 
 It consists of an open world of free sharing for ideas and visions, a protocol for the act of creating an idea and pushing it into the virtual world, where others can view it and even "interact" with it.
 
-#### What do we mean by "interact"?&#x20;
+#### What do we mean by "interact"?
 
 Interact as in giving the users the ability to bring their ideas into life in the World Z, and make it as if they are "playable". Yes, it is the same concept of video games but with a revolutionary vision of giving back to the users, as in allowing users/players to produce their own game assets into the World Z game.
 
