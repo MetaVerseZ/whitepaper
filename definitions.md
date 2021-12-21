@@ -1,9 +1,9 @@
 # Definitions
 
-## What is Meta Z world?
+## What is Meta Z World?
 
-Meta Z is a virtual world which will be created and developed by the meta z team and every user who will be a part of this project using all necessary resources and open a route for all ideas and expertise in this domain.
+Meta Z is a virtual world that will be created and developed by the Meta Z team and every user who will be a part of this project using all necessary resources and open a route for all ideas and expertise in this domain.
 
-## What's MZT?
+## What is MZT?
 
-MZT is BEP 20 token powered by the BSC smart chain, designed as a currency for the world Z, so it's a measurement currency which will be used for the fair exchange of items created in the world Z by the users.
+MZT is a BEP20 token powered by Binance Smart Chain and designed as a currency for the world Z. It is the measurement currency that will be used for the fair exchange of items created in World Z by users.
