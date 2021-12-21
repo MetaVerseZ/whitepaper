@@ -4,7 +4,7 @@
 
 **Founder & Game Developer**
 
-Email: [**mzt@metaversez0.com**](mailto:mzt@metaversez0.com)
+Email: [mzt@metaversez0.com](mailto:mzt@metaversez0.com)
 
 Jonas leads our game design team and is responsible for our technical strategy and engineering operations
 
