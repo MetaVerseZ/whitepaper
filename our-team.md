@@ -1,8 +1,10 @@
 # Our team
 
-## Founder and game developer: Jonas ksd
+## Jonas Ksd
 
-### Mail: mzt@metaversez0.com
+**Founder & Game Developer**
+
+Email: [**mzt@metaversez0.com**](mailto:mzt@metaversez0.com)
 
 Jonas leads our game design team and is responsible for our technical strategy and engineering operations
 
@@ -10,24 +12,28 @@ He previously worked as a software engineer. graduated from a Technological Univ
 
 
 
-## Growth lead: joseph grey
+## Joseph Grey
 
-### Mail: youcefksd@gmail.com
+**Growth Lead**
 
-joseph is responsible for growth and community development. He also spearheads token design and works closely with the product team.
+Email: [youcefksd@gmail.com](mailto:youcefksd@gmail.com)
 
-Graduated from the Higher School of Commerce, majoring in management and contracting in 2018
+Joseph handles growth and community development. He also spearheads token design and works closely with the product team.
 
-5 years of experience in crypto communities.
+He Graduated from the Higher School of Commerce, majoring in management and contracting in 2018 and has 5 years of experience in crypto communities.
 
-## Lead developer:  Álvaro Rodríguez
+## Álvaro Rodríguez
 
-### Mail: electromandz33@gmail.com
+**Lead Developer**
 
-A professional developer in the field for more than 9 years.
+Email: [electromandz33@gmail.com](mailto:electromandz33@gmail.com)
 
-## Designer: mike Thomson
+A Full Stack Web Developer with over 9 years of hands-on experience developing applications using a range of technologies and programming languages.
 
-### Mail: crypticmega@gmail.com
+## Mike Thomson
+
+**Designer**
+
+Email: [crypticmega@gmail.com](mailto:crypticmega@gmail.com)
 
 A talent artist specializing in digital arts.
