@@ -2,7 +2,7 @@
 
 ## What is Meta Z World?
 
-Meta Z is a virtual world that will be created and developed by the Meta Z team and every user who will be a part of this project using all necessary resources and open a route for all ideas and expertise in this domain.
+Meta Z is a virtual world that the Meta Z team will create and develop and every user who will be a part of this project using all necessary resources and open a route for all ideas and expertise in this domain.
 
 ## What is MZT?
 
