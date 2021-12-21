@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Definitions](definitions.md)
-* [Vision and mission](vision-and-mission.md)
-* [Our team](our-team.md)
+* [Vision & Mission](vision-and-mission.md)
+* [Our Team](our-team.md)
 * [Roadmap](roadmap.md)
+* [Links](links.md)
