@@ -1,15 +1,11 @@
 # Roadmap
 
-(phase1) from dec 2021 to march 2022:
+## Phase 1
 
-Website development > December 2021
+### World Z Development (Dec 2021 - Mar 2022)
 
-World Z prototype > January 2022
-
-Token Presale > January 2022
-
-Token launch > January 2022
-
-Cmc - coingecko listing: January 2022
-
-World Z development Phase 1: January - February - March 2022.
+* ~~**Dec 2021:** Website Development~~ <mark style="color:green;">(Done)</mark>
+* **Dec 2021:** World Z Prototype
+* **Jan 2022:** Token Presale
+* **Jan 2022:** Token Launch
+* **Jan 2022:** CMC - Coingecko Listing
