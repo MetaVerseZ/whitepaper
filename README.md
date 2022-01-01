@@ -1,13 +1,21 @@
 # Introduction
 
-[Meta Z](https://www.themetaversez.com) is a virtual world with a separated marketplace system that is linked to the MZT token where users can bring their imaginations forward virtually to allow them to get upgrades to their status in the Z World.
+Meta-Z is a play to earn multiplayer game built on the unity engine, with a separated marketplace system built on the web that uses "metamask app" to allow users to purchase in-game items in order for them to get upgrades to their status in the Meta-Z world.
 
-#### World Z provides an infrastructure to support a shared virtual world, also known as a metaverse.
+### 1.1 Meta-Z World Concept and Purposes
 
-It comprises an open world of free sharing for ideas and visions, a protocol for the act of creating an idea and pushing it into the virtual world, where others can view it and even “interact” with it.
+Meta-Z provides an infrastructure to support a shared virtual world between all players, also known as a metaverse. It comprises of an open world for players to interact with each others, which is also flexible to changes so basically the meta-Z world can be whatever the playerbase want it to be. As in giving the users the ability to bring their ideas into life in Meta-Z World.
 
-#### What do we mean by "interact"?
+### 1.2 Use Demonstration
 
-Interact as in giving the users the ability to bring their ideas into life in World Z, and make it as if they are “playable”. Yes, it is the same concept of video games but with a revolutionary vision of giving back to the users, as in allowing users/players to produce their game assets into the World Z game.
+Content Categorizing Players in Meta-Z world will gather around districts of shared interest. Being located near high-traffic lobbies will drive players towards a more fun multiplayer experience.
 
-![](<.gitbook/assets/BlaBla (1).png>)
+### 1.3 Play-to-earn system
+
+We expect a lot of world wide players to invest their time playing the game As so we plan on giving the players a kind of reward for their time spent in meta-z world.
+
+Our earning system is based on giving a daily share prize of Meta-Z token, to be collected by players in the Meta-z world following their efforts and spent time on the game.
+
+### 1.4 Community & Other Uses
+
+The variety of users that currently gather in online forums, chat groups, or even other concentrated multiplayer games could port their communities into Meta-Z. offline communities could also find in Meta-Z a space to gather.
