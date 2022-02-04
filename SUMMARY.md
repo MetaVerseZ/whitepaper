@@ -27,3 +27,5 @@
   * [System Of Dynamic Rewards](economy/system-of-dynamic-rewards.md)
   * [Tokenomics](economy/tokenomics.md)
 * [Community and other uses](community-and-other-uses.md)
+* [Roadmap](roadmap.md)
+* [Conclusion](conclusion.md)
