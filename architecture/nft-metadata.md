@@ -18,7 +18,7 @@ A protocol called **IPFS** (InterPlanetary File System) would work great to solv
 The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses [content addressing](https://docs.ipfs.io/concepts/content-addressing/) to uniquely identify each file in a global namespace connecting all computing devices.
 
 {% embed url="https://www.youtube.com/watch?v=5Uj6uR3fp-U" %}
-What is IPFS?
+IPFS Simply Explained
 {% endembed %}
 
 Adding data to IPFS produces a content identifier (CID) that's directly derived from the data itself and links to the data in the IPFS network. Because a CID can only _ever_ refer to one piece of content, we know that nobody can replace or alter the content without breaking the link.
