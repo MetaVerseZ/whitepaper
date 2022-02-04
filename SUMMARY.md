@@ -17,6 +17,8 @@
 * [Community and other uses](community-and-other-uses.md)
 * [Architecture](architecture/README.md)
   * [NFT Marketplace](architecture/nft-marketplace.md)
+  * [PC-Based Metaverse](architecture/pc-based-metaverse.md)
+  * [Smart Contracts](architecture/smart-contracts.md)
 * [Meta-Z World Tech](meta-z-world-tech/README.md)
   * [Unity Engine](meta-z-world-tech/unity-engine.md)
   * [Multiplayer System](meta-z-world-tech/multiplayer-system.md)
