@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/SC1.PNG
 coverY: 180.44052863436124
 ---
 
-# 👨💼 Meta-Z project
+# 👨💼 Project
 
 ## Whats is Meta-Z project ?&#x20;
 
@@ -13,6 +13,11 @@ The foundation stone for M**eta-Z** has been laid in **December 2021,** by its f
 * Social multiplayer
 * Play-to-earn game.
 
-**Meta-Z** started as a game prototype for the metaverse, which had a basic concept of allowing players to make their own unique stuff using [**NFT**](https://en.wikipedia.org/wiki/Non-fungible\_token) **** technology and share it with each others, which then branched out into 4 primary building blocks, **the base game, the builder, the marketplace and Meta-Z token** used on the marketplace.
+**Meta-Z** started as a game prototype for the metaverse, which had a basic concept of allowing players to make their own unique stuff using [**NFT**](https://en.wikipedia.org/wiki/Non-fungible\_token) **** technology and share it with each others, which then branched out into 4 primary building blocks:
+
+* Base Game
+* Builder
+* Marketplace
+* Meta-Z token
 
 ![](../.gitbook/assets/SC1.PNG)

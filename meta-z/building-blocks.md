@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🏗 Building blocks
+# 🏗 Building Blocks
 
 ## Meta-Z Project is divided into 4 sections
 
@@ -20,6 +20,6 @@ Game tool that is used by users to create and design their own items which can b
 
 The main market system, where Meta-Z users can connect their online wallets, purchase and trade their items ( NFT's) using MZT( token), then use it later in the game or keep it in their wallets.&#x20;
 
-### 4. Meta-Z token(MZT)
+### 4. Meta-Z token (MZT)
 
 the main currency of both the game and the marketplace, users are required to obtain this token in order to benefit from all the functions of the marketplace.
