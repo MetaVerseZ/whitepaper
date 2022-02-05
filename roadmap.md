@@ -38,7 +38,7 @@ description: Q4 2021 -> Q4 2022
 
 ## 2022 Q4
 
-* **Beta game release**&#x20;
+* **Alpha game release**&#x20;
 * **Game Q\&A with the developers and community**
 * **First release of P2E(Play to earn) system**
 * **Token redistribution to holders**
