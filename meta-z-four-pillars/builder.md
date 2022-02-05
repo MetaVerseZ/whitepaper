@@ -6,6 +6,12 @@ cover: ../.gitbook/assets/BuildingSC.PNG
 coverY: -77.96954314720813
 ---
 
-# Builder
+# 🏛 Builder
 
-## Builder design
+## 1.1 Builder main design
+
+You could think of the builder as a seperate game in itself, it has its own camera movment, world settings and plays differently.
+
+![The builder mneu UI](../.gitbook/assets/BuildingSC.PNG)
+
+The main purpose behind chosing this design is to make it easy for players to create their own worlds separately from the main game world in a clean and organized manners.

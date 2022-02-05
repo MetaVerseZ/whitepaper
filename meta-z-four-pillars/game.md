@@ -1,4 +1,4 @@
-# Game
+# 🎮 Game
 
 ## 1. Game development tools
 
@@ -28,7 +28,7 @@ we use a variety of low poly 3D models, but mostly polygon and most notably we u
 
 the core gameplay revolves around multiplayer interactions, the game focuses heavily around the social part between player rather than Physics, which was a decision we come up with after reviewing multiple metaverse games
 
-### 2.3 Play-to-earn system
+### 2.3 Play to earn system
 
 We expect a lot of world wide players to invest their time playing the game As so we plan on giving the players a kind of reward for their time spent in meta-z world.
 
