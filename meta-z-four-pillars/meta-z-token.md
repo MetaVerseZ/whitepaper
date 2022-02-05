@@ -1,8 +1,10 @@
 # Meta-Z Token
 
-MZT is a BEP20 token powered by Binance Smart Chain and designed as a currency for World Z. It is the measurement currency that will be used for the fair exchange of items created in World Z by users.
+**MZT(Meta-Z token)** is a BEP20 token powered by Binance Smart Chain and designed as a currency for Meta-Z.&#x20;
 
-### Tokenomics <a href="#4.2-tokenomics" id="4.2-tokenomics"></a>
+The main currency for the game and marketplace, which will be used for:&#x20;
 
-![Token Distribution](https://3699729896-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FOSfRtScG6FC3fwEo7DyR%2Fuploads%2Fj3x89GwosnudJrresZEW%2Fimage.png?alt=media\&token=7f3d929a-b44d-422b-a88e-aa51ab088875)
+* a. Purchase and Trade items between users in Meta-Z marketplace
+* b. Get it as a reward from playing Meta-Z game.&#x20;
+* c. Hold or trade this token fairly in several exchanges later.
 

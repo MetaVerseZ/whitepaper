@@ -1,2 +1,0 @@
-# System Of Dynamic Rewards
-
