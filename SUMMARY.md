@@ -1,10 +1,10 @@
 # Table of contents
 
-## 🕹 Meta-Z
+## 🕹 Meta-Z <a href="#Intro" id="Intro"></a>
 
 * [⛩ Introduction](README.md)
-* [👨💼 Project](meta-z/project.md)
-* [🏗 Building Blocks](meta-z/building-blocks.md)
+* [👨💼 Project](Intro/project.md)
+* [🏗 Building Blocks](Intro/building-blocks.md)
 
 ## Meta-Z Four Pillars
 
