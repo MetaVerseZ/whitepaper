@@ -11,10 +11,9 @@
 * [🎮 Game](meta-z-four-pillars/game.md)
 * [🏛 Builder](meta-z-four-pillars/builder.md)
 * [🎭 Marketplace](meta-z-four-pillars/marketplace.md)
-  * [Architecture](architecture/README.md)
-    * [NFT Marketplace](architecture/nft-marketplace.md)
-    * [Smart Contracts](architecture/smart-contracts.md)
-    * [NFT Metadata](architecture/nft-metadata.md)
+  * [Architecture](meta-z-four-pillars/marketplace/architecture.md)
+  * [Smart Contracts](meta-z-four-pillars/marketplace/smart-contracts.md)
+  * [NFT Metadata](meta-z-four-pillars/marketplace/nft-metadata.md)
 * [🪙 Meta-Z Token](meta-z-four-pillars/meta-z-token.md)
 
 ***
