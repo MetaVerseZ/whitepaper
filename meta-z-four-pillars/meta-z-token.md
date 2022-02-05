@@ -1,4 +1,4 @@
-# Meta-Z Token
+# 🪙 Meta-Z Token
 
 **MZT(Meta-Z token)** is a BEP20 token powered by Binance Smart Chain and designed as a currency for Meta-Z.&#x20;
 
