@@ -10,6 +10,8 @@ From the network interaction point of view, The Unity Engine restrains numerous 
 
 Adjusting our game for desktop platforms, we had a wider range of technological solutions. This comprises several graphics rendering and blockchain computation advantages which improves player experience.
 
+![](../.gitbook/assets/Capture.PNG)
+
 ### 1.2 Multiplayer System
 
 Multiplayer System controls all in-game user to user interactions happening in realtime. Due to the difficulty of world building and world scaling, and some other features, our development team adjusted the engine used for the core system managment to satisfy the essential tasks.
@@ -23,6 +25,8 @@ For multiplayer we use **Netcode**, Netcode for GameObjects is a Unity package t
 For our graphical design choice we decided to go with a low poly style for the sake of both performance and simplicity to mmake the game way more user friendly for newcomers.
 
 we use a variety of low poly 3D models, but mostly polygon and most notably we use **POLYGON PACKS** from unity store.
+
+![](../.gitbook/assets/SC2.PNG)
 
 ### 2.2 Gameplay design
 
