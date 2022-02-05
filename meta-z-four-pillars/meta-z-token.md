@@ -8,3 +8,6 @@ The main currency for the game and marketplace, which will be used for:&#x20;
 * b. Get it as a reward from playing Meta-Z game.&#x20;
 * c. Hold or trade this token fairly in several exchanges later.
 
+#### [Block explorer](https://bscscan.com/token/0x5ef6b5abaa7e9b75fa4daebf0fc722f9aff12b40)
+
+#### Learn more about the [tokenomics](../economy/tokenomics.md).
