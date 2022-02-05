@@ -30,7 +30,9 @@ we use a variety of low poly 3D models, but mostly polygon and most notably we u
 
 ### 2.2 Gameplay design
 
-the core gameplay revolves around multiplayer interactions, the game focuses heavily around the social part between player rather than Physics, which was a decision we come up with after reviewing multiple metaverse games
+the core gameplay revolves around multiplayer interactions, the game focuses heavily around the social part between player rather than Physics, which was a decision we come up with after reviewing multiple metaverse games.
+
+{% embed url="https://www.youtube.com/watch?v=HpbuDPFpA3M" %}
 
 ### 2.3 Play to earn system
 
