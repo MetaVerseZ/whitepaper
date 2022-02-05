@@ -1,6 +1,8 @@
-# 🛣 Roadmap
+---
+description: Q4 2021 -> Q4 2022
+---
 
-### **18 month roadmap**
+# 🛣 Roadmap
 
 ## **2021 Q4**
 
@@ -20,6 +22,7 @@
 * **Token launch on pancakeswap**
 * **Marketplace showcase**
 * **Game builder showcase**
+* **Community referral system**
 * #### CMC - Coingecko Listing
 
 ## 2022 Q2/Q3
@@ -30,12 +33,19 @@
 * **Deploying NFT maker**
 * **DEV:Game builder tools**
 * **Second marketing wave**
-* **Alpha game release**&#x20;
+* **community airdrops**
+* **Provide 1.66% Liquidity for pancakeswap**
+
+## 2022 Q4
+
+* **Beta game release**&#x20;
+* **Game Q\&A with the developers and community**
 * **First release of P2E(Play to earn) system**
+* **Token redistribution to holders**
 
 ****
 
-## 2022 Q4
+****
 
 ****
 
