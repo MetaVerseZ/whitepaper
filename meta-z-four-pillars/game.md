@@ -32,6 +32,8 @@ we use a variety of low poly 3D models, but mostly polygon and most notably we u
 
 the core gameplay revolves around multiplayer interactions, the game focuses heavily around the social part between player rather than Physics, which was a decision we come up with after reviewing multiple metaverse games.
 
+In order for players to build their own stuff they will need to have a valid land "could be obtained from the market" which only they can change however they like, other players may only view it as it is and interact with it.
+
 {% embed url="https://www.youtube.com/watch?v=HpbuDPFpA3M" %}
 
 ### 2.3 Play to earn system
