@@ -10,5 +10,6 @@ Our official links:&#x20;
 * [Twitter](https://twitter.com/MetaVerse\_MZT)
 * [Facebook](https://www.facebook.com/MetaverseZ0/)
 * [Youtube](https://www.youtube.com/channel/UCYHYPToHCPKEojsZ69tNSIQ)
+* [GitHub](https://github.com/MetaVerseZ)
 
 \

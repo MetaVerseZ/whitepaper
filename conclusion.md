@@ -1,5 +1,5 @@
 # 🌱 Conclusion
 
-Meta-Z World is a stimulating project that uses a broad variety of technological and speculative stacks, managed towards creating a **metaverse** on the basis of the four different Meta-Z Systems, Including Meta-Z token as the main currency. This will allow players to have a new point of view to a game world.
+Meta-Z World is a stimulating project that uses a broad variety of technological and speculative stacks, managed towards creating a **metaverse** on the basis of the four different Meta-Z Systems, including Meta-Z token as the main currency. This will allow players to have a new point of view to a game world.
 
 The use of cutting-edge cross platform blockchain technology in the Meta-Z World will increase overall notice and engagement in this project moving forward. We are working towards the creation of a global community of players interacting with Meta-Z World for multiple purposes such as entertainment and economic outcomes. Meta-Z World aim to engage people together virtually using a metaverse to create wide communities.

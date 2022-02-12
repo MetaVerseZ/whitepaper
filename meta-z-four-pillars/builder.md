@@ -18,9 +18,7 @@ The main purpose behind chosing this design is to make it easy for players to cr
 
 ## 2. Adding own items/NFTs
 
-the builder design allow for flexible adding of new items, each item must contain (3D model, material, item name), aftyer adding it into the item list it will automatically generate a ghost material (used as a guide to help the player place objects on the game world)
-
-which can be placed later after adding it to the items list into the game world
+The builder design allow for flexible adding of new items, each item must contain (3D model, material, item name), after adding it into the item list it will automatically generate a ghost material (used as a guide to help the player place objects on the game world) which can be placed later after adding it to the items list into the game world.
 
 ![](../.gitbook/assets/BuildingItemSC.PNG)
 

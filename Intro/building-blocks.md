@@ -18,7 +18,7 @@ Game tool that is used by users to create and design their own items which can b
 
 ### 3. Meta-Z marketplace
 
-The main market system, where Meta-Z users can connect their online wallets, purchase and trade their items ( NFT's) using MZT( token), then use it later in the game or keep it in their wallets.&#x20;
+The main market system, where Meta-Z users can connect their online wallets, purchase and trade their items (NFT's) using MZT (token), then use it later in the game or keep it in their wallets.&#x20;
 
 ### 4. Meta-Z token (MZT)
 

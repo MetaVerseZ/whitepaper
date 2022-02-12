@@ -6,7 +6,7 @@ description: Q4 2021 -> Q4 2022
 
 ## **2021 Q4**
 
-* **Website Development**
+* **Website development**
 * **Whitepaper design**
 * **Game prototype**
 
@@ -17,9 +17,9 @@ description: Q4 2021 -> Q4 2022
 * **First marketing wave**&#x20;
 * **Game showcase**
 * **Token presale**
-* **Community Airdrop**
-* **Burn Event (50M MZT)**
-* **Token launch on pancakeswap**
+* **Community airdrop**
+* **Burn event (50M MZT)**
+* **Token launch on PancakeSwap**
 * **Marketplace showcase**
 * **Game builder showcase**
 * **Community referral system**
@@ -28,19 +28,19 @@ description: Q4 2021 -> Q4 2022
 ## 2022 Q2/Q3
 
 * **CEX listing**&#x20;
-* **release new integrations and partnerships**
+* **Release new integrations and partnerships**
 * **Deploying marketplace contract**&#x20;
 * **Deploying NFT maker**
-* **DEV:Game builder tools**
+* **DEV: Game builder tools**
 * **Second marketing wave**
-* **community airdrops**
-* **Provide 1.66% Liquidity for pancakeswap**
+* **Community airdrops**
+* **Provide 1.66% liquidity for PancakeSwap**
 
 ## 2022 Q4
 
 * **Alpha game release**&#x20;
-* **Game Q\&A with the developers and community**
-* **First release of P2E(Play to earn) system**
+* **Game Q\&A with developers and community**
+* **First release of P2E (Play to earn) system**
 * **Token redistribution to holders**
 * **Lands presale**
 * **First NFT's presale**

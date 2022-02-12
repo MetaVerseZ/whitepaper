@@ -19,7 +19,7 @@
 ***
 
 * [🌐 Community and other uses](community-and-other-uses.md)
-* [Economy](economy/README.md)
-  * [📊 Tokenomics](economy/tokenomics.md)
+* [📊 Economy](economy/README.md)
+  * [Tokenomics](economy/tokenomics.md)
 * [🛣 Roadmap](roadmap.md)
 * [🌱 Conclusion](conclusion.md)
