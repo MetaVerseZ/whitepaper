@@ -19,3 +19,21 @@
 * **5%** of supply will be redistrubuted automatically to MZT holders in 5 years program after the first launch of the token ( **1% each year** ) respecting the amount of MZT they are holding in their wallets.
 * **5%** will be distributed to Meta-Z community in socials and trading platforms using referral programs - trading contests prizes and others.
 * We will hold **4%** as a reserve in a public wallet to face future developments and risks.
+
+## Lock Notice:
+
+**we are locking 67% of the supply** [**Link** ](https://bscscan.com/token/0x5ef6b5abaa7e9b75fa4daebf0fc722f9aff12b40?a=0x202ae374d301af22a78df38d1cad3587ac7a6bcf)****
+
+&#x20;**** Meta-Z P2E system **40%**
+
+holders Redistribution **5%**
+
+Game development **5%**
+
+Marketplace development **3%**
+
+Exchanges listings **5%**
+
+Reserve **4%**
+
+Team **5%**
