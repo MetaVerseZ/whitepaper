@@ -21,9 +21,7 @@
 
 ## Lock Notice:
 
-**we are locking 67% of the supply**
-
-**in this contract** [**Link** ](https://bscscan.com/token/0x5ef6b5abaa7e9b75fa4daebf0fc722f9aff12b40?a=0x202ae374d301af22a78df38d1cad3587ac7a6bcf)****
+**We are locking 67% of the supply in this contract** [**Link**](https://bscscan.com/token/0x5ef6b5abaa7e9b75fa4daebf0fc722f9aff12b40?a=0x202ae374d301af22a78df38d1cad3587ac7a6bcf)**.**
 
 &#x20;**** Meta-Z P2E system **40%**
 
