@@ -11,13 +11,29 @@ The foundation stone for M**eta-Z** has been laid in **December 2021,** by its f
 
 * Metaverse world
 * Social multiplayer
-* Play-to-earn game.
+* Play-to-earn game
+* NFT marketplace
+* Create and share with players
 
-**Meta-Z** started as a game prototype for the metaverse, which had a basic concept of allowing players to make their own unique stuff using [**NFT**](https://en.wikipedia.org/wiki/Non-fungible\_token) **** technology and share it with each others, which then branched out into 4 primary building blocks:
+
+
+**Meta-Z** is an MMORPG which had a basic concept of allowing players to make their own unique stuff using [**NFT**](https://en.wikipedia.org/wiki/Non-fungible\_token) **** technology and share it with each others, which then branched out into 4 primary building blocks:
 
 * Base Game
-* Builder
-* Marketplace
-* Meta-Z token
+* NFT Builder
+* NFT Marketplace
+* Meta Z world tokens:
+  * Meta Z token {MZT}&#x20;
+  * Play Meta Z {PMZ}&#x20;
 
-![](../.gitbook/assets/SC1.PNG)
+{% tabs %}
+{% tab title="PMZ Logo" %}
+![PMZ logo](<../.gitbook/assets/PMZ logo.png>)
+{% endtab %}
+
+{% tab title="MZT Logo" %}
+![MZT logo](../.gitbook/assets/MztLogo.png)
+{% endtab %}
+{% endtabs %}
+
+![Screenshot from the early game development phase](../.gitbook/assets/SC1.PNG)

@@ -10,16 +10,22 @@ coverY: 0
 
 ### 1. Meta-Z base-game
 
-3D online multiplayer game built in Unity engine where players can interact in the metaverse, play and interact with other players and do certain activities in order to earn rewards in the shape of "tokens".&#x20;
+MMORPG built on Unity engine as FREE TO PLAY which provide a smart ecosystem for players to interact in Meta Z world and have fun together, also they can build their own worlds and invite their friends to join them, our ecosystem also provide a play to earn experience for players to collect Meta Z tokens, we expect Meta Z game to be the next top grossing game.
 
 ### 2. Meta-Z builder
 
-Game tool that is used by users to create and design their own items which can be minted into an NFTs and traded later.&#x20;
+Game tool that is used by users to create and design their own items which can be minted into an NFTs and traded later, also place those items inside Meta Z world on their own plot of land (lands are also considered an NFT item that can be purchased on the marketplace for the privilege of building inside the world).
 
 ### 3. Meta-Z marketplace
 
-The main market system, where Meta-Z users can connect their online wallets, purchase and trade their items (NFT's) using MZT (token), then use it later in the game or keep it in their wallets.&#x20;
+The main market system, where Meta-Z users can connect their online wallets, purchase and trade their items (NFT's) using PMZ (token), the marketplace provides even more services for the users as such:
 
-### 4. Meta-Z token (MZT)
+* Listing NFT items for sale
+* Minting new NFTs to be used in game and even sold
+* Buying and obtaining NFTs
+* Viewing other user's accounts on the marketplace
 
-the main currency of both the game and the marketplace, users are required to obtain this token in order to benefit from all the functions of the marketplace.
+### 4. Meta-Z tokens (PMZ - MZT)
+
+* Play Meta Z (PMZ) is the governance token for Meta Z project.
+* Meta Z Token (MZT) is the ecosystem token for Meta Z world.&#x20;

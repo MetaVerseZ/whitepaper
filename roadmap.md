@@ -16,34 +16,37 @@ description: Q4 2021 -> Q4 2022
 
 * **First marketing wave**&#x20;
 * **Game showcase**
-* **Token presale**
+* **MZT Token presale**
 * **Community airdrop**
 * **Burn event (50M MZT)**
 * **Token launch on PancakeSwap**
 * **Marketplace showcase**
 * **Game builder showcase**
 * **Community referral system**
-* #### CMC - Coingecko Listing
 
-## 2022 Q2/Q3
+## 2022 Q2
 
-* **CEX listing**&#x20;
+* **MZT CEX listing**&#x20;
 * **Release new integrations and partnerships**
 * **Deploying marketplace contract**&#x20;
-* **Deploying NFT maker**
-* **DEV: Game builder tools**
-* **Second marketing wave**
-* **Community airdrops**
-* **Provide 1.66% liquidity for PancakeSwap**
-
-## 2022 Q4
-
-* **Alpha game release**&#x20;
-* **Game Q\&A with developers and community**
-* **First release of P2E (Play to earn) system**
-* **Token redistribution to holders**
+* **Multiplayer game alpha release**&#x20;
+* **Launch Meta Z NFT marketplace**&#x20;
 * **Lands presale**
 * **First NFT's presale**
+* **Second marketing wave**&#x20;
+* **PMZ Fair launch**&#x20;
+* **PMZ launch on pancakeswap**
+* **Community Airdrops**
+
+## 2022 Q3/Q4
+
+* **PMZ CEX listing**&#x20;
+* **Adding chat system and communication with party mode in game**
+* **Adding Quests and tasks linked to the reward system**
+* **Game Q\&A with developers and community**
+* **First release of P2E (Play to earn) system**
+
+****
 
 ****
 
