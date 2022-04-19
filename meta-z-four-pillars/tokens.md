@@ -14,9 +14,11 @@ Block explorer for MZT
 
 **PMZ (Play Meta Z)** is a BEP20 Liquidity generator token designed to be the Governance and the NFT marketplace token for Meta Z project&#x20;
 
-{% embed url="https://bscscan.com/token/0x7287584b7777C89E8b3f23a4766DA9f8f1c7Ec4e" %}
+{% embed url="https://bscscan.com/token/0x4d4093b3ffa008016c26801b216f114557278fc5" %}
 Block explorer for PMZ
 {% endembed %}
+
+
 
 ![](<../.gitbook/assets/PMZ logo.png>)
 
