@@ -3,7 +3,7 @@
 ## 🕹 Meta-Z <a href="#intro" id="intro"></a>
 
 * [⛩ Introduction](README.md)
-* [👨💼 Project](Intro/project.md)
+* [👨    Project](Intro/project.md)
 * [🏗 Building Blocks](Intro/building-blocks.md)
 
 ## Meta-Z Four Pillars
@@ -21,7 +21,7 @@
 * [🛡 Audit](audit.md)
 * [💡 Meta Z architecture](meta-z-architecture.md)
 * [🌐 Community and other uses](community-and-other-uses.md)
-* [📊 Tokenomics](mzt-tokenomics.md)
+* [📊 Tokenomics](economy/mzt-tokenomics.md)
 * [🛣 Roadmap](roadmap.md)
-* [🕵 Mission and vision](mission-and-vision.md)
+* [🕵    Mission and vision](mission-and-vision.md)
 * [🌱 Conclusion](conclusion.md)

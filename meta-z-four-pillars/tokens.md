@@ -14,4 +14,4 @@ Block explorer for MZT
 
 ![MZT Logo](../.gitbook/assets/MztLogo.png)
 
-#### Learn more about the [tokenomics](../mzt-tokenomics.md).
+#### Learn more about the [tokenomics](../economy/mzt-tokenomics.md).

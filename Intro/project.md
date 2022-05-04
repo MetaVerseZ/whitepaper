@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/SC1.PNG
 coverY: 180.44052863436124
 ---
 
-# 👨💼 Project
+# 👨    Project
 
 ## Whats is Meta-Z project ?
 
