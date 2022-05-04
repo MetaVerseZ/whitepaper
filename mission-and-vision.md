@@ -1,4 +1,4 @@
-# 🕵♂ Mission and vision
+# 🕵 Mission and vision
 
 ## Mission
 
@@ -9,5 +9,3 @@
 ## Vision
 
 * **Build metaverse game, with P2E system, where people can play & have fun, earn rewards, interact with others, create and sell their items as NFTs.**
-
-\

@@ -25,7 +25,6 @@ The main market system, where Meta-Z users can connect their online wallets, pur
 * Buying and obtaining NFTs
 * Viewing other user's accounts on the marketplace
 
-### 4. Meta-Z tokens (PMZ - MZT)
+### 4. Meta-Z Token
 
-* Play Meta Z (PMZ) is the governance token for Meta Z project.
-* Meta Z Token (MZT) is the ecosystem token for Meta Z world.&#x20;
+* Meta Z Token (MZT) is the main currency for Meta Z world.
